@@ -1,20 +1,21 @@
 {
 	"uri": "at://did:plc:6xzxxmgdgevdzaci67zjbprp/app.bsky.labeler.service/self",
-	"cid": "bafyreicatu46hh4gz6yivnbzocryklxqh4rz3ghnhs2eqnrtdo6mz5a2bm",
+	"cid": "bafyreie2tlks6gcz3msguprmof5n5aqmyvyvdvpurkbnvku77euuibq2xy",
 	"creator": {
 		"did": "did:plc:6xzxxmgdgevdzaci67zjbprp",
-		"handle": "europarllabeler.bsky.social",
+		"handle": "mepslabeler.space",
 		"displayName": "European Parliament Labeler",
-		"avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6xzxxmgdgevdzaci67zjbprp/bafkreiev6p3efynumt7tcodefifqx5orr6p7zfxl3whpgiq3z27wb2u4ue@jpeg",
+		"avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6xzxxmgdgevdzaci67zjbprp/bafkreifza6cez6ss25rdcx67gjkup77v3ry3ya42pteepmpzzvccqxbhjq@jpeg",
 		"associated": {
 			"labeler": true
 		},
 		"labels": [],
 		"createdAt": "2025-02-18T12:23:23.946Z",
-		"indexedAt": "2025-02-18T12:25:10.346Z"
+		"description": "IN DEVELOPMENT",
+		"indexedAt": "2025-02-19T18:10:30.845Z"
 	},
 	"likeCount": 0,
-	"indexedAt": "2025-02-18T21:52:13.361Z",
+	"indexedAt": "2025-02-19T17:48:43.962Z",
 	"labels": [],
 	"policies": {
 		"labelValueDefinitions": [
@@ -25,9 +26,9 @@
 				"identifier": "epp",
 				"locales": [
 					{
-						"description": "European People's Party Group",
+						"description": "Group of the European People's Party (Christian Democrats)",
 						"lang": "en",
-						"name": "EPP "
+						"name": "💛 European People's Party"
 					}
 				],
 				"severity": "inform"
@@ -39,9 +40,9 @@
 				"identifier": "sd",
 				"locales": [
 					{
-						"description": "Progressive Alliance of Socialists and Democrats",
+						"description": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
 						"lang": "en",
-						"name": "SD"
+						"name": "🌹 Socialists and Democrats"
 					}
 				],
 				"severity": "inform"
@@ -53,9 +54,9 @@
 				"identifier": "pfe",
 				"locales": [
 					{
-						"description": "Patriots for Europe",
+						"description": "Patriots for Europe Group",
 						"lang": "en",
-						"name": "PfE"
+						"name": "🏴 Patriots for Europe"
 					}
 				],
 				"severity": "inform"
@@ -69,7 +70,7 @@
 					{
 						"description": "European Conservatives and Reformists Group",
 						"lang": "en",
-						"name": "ECR"
+						"name": "🦁 European Conservatives and Reformists"
 					}
 				],
 				"severity": "inform"
@@ -81,9 +82,9 @@
 				"identifier": "renew",
 				"locales": [
 					{
-						"description": "Renew Europe",
+						"description": "Renew Europe Group",
 						"lang": "en",
-						"name": "Renew"
+						"name": "🔄 Renew Europe"
 					}
 				],
 				"severity": "inform"
@@ -95,9 +96,9 @@
 				"identifier": "greens",
 				"locales": [
 					{
-						"description": "Greens–European Free Alliance",
+						"description": "Group of the Greens/European Free Alliance",
 						"lang": "en",
-						"name": "Greens/EFA"
+						"name": "🌻 Greens/European Free Alliance"
 					}
 				],
 				"severity": "inform"
@@ -109,9 +110,9 @@
 				"identifier": "left",
 				"locales": [
 					{
-						"description": "The Left in the European Parliament",
+						"description": "The Left group in the European Parliament - GUE/NGL",
 						"lang": "en",
-						"name": "The Left"
+						"name": "🚩 The Left"
 					}
 				],
 				"severity": "inform"
@@ -125,7 +126,7 @@
 					{
 						"description": "Europe of Sovereign Nations Group",
 						"lang": "en",
-						"name": "ESN"
+						"name": "🌳 Europe of Sovereign Nations"
 					}
 				],
 				"severity": "inform"
@@ -139,7 +140,7 @@
 					{
 						"description": "Non-attached members",
 						"lang": "en",
-						"name": "NI"
+						"name": "❓ Non-attached"
 					}
 				],
 				"severity": "inform"
