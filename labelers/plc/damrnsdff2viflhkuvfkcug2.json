@@ -3,7 +3,7 @@
 	"cid": "bafyreihvg6tudugdgd4nlslvgbpupvgo5ztqdidmnj4jsrl4a53qj2yuje",
 	"creator": {
 		"did": "did:plc:damrnsdff2viflhkuvfkcug2",
-		"handle": "nafo.fellas.social",
+		"handle": "handle.invalid",
 		"displayName": "Nafo Moderation",
 		"avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:damrnsdff2viflhkuvfkcug2/bafkreidszmgmyviyfq23w3lisvlcx24jrg2ylft3jxyrpi7spiwl5mf474@jpeg",
 		"associated": {
@@ -22,7 +22,7 @@
 		"description": "Fighting disinformation. \nEvaluating posts for links to disinformation sites, social media users or Bluesky mentions who is known for disinformation. Do not evaluate user profiles or behavior. User will be labeled if post with disinfo passes threshhold. ",
 		"indexedAt": "2025-01-12T15:41:37.744Z"
 	},
-	"likeCount": 20,
+	"likeCount": 21,
 	"indexedAt": "2025-01-12T15:17:12.158Z",
 	"labels": [],
 	"policies": {
